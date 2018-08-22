@@ -1,3 +1,7 @@
+# Bash Scripts #
+################
+make
+
 # Compiled source #
 ###################
 *.class
